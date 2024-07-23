@@ -28,7 +28,6 @@ SellerApp Backend Task
 
 4. **Initialize the Collection**
 
-   Added a init-mongo file so that db and collection will be initialised when `docker-compose up --build` is called.
    The collection is initialized in `main.go`.
 
 ## Running the Service
