@@ -12,7 +12,7 @@ SellerApp Backend Task
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/product-service.git
+   git clone [https://github.com/yourusername/product-service.git](https://github.com/Vaishnav-OM/sellerapp-task.git)
    cd product-service
    ```
 
