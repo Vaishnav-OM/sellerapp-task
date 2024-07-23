@@ -35,15 +35,7 @@ SellerApp Backend Task
 
 1.  **Start the Service**
 
-    run `main.go`
-
-    ```sh
-    go run main.go
-    ```
-
-    The service will be available at `http://localhost:8080`.
-
-2.  **Docker Setup**
+    **Docker Setup**
 
     ->Build and Start the Service
 
@@ -51,7 +43,7 @@ SellerApp Backend Task
           docker-compose up --build
           ```
 
-    This command will build the Docker images and start the containers. The service will be available at `http://localhost:8080`.
+    This command will build the Docker images and start the containers. The service will be available at `http://localhost:8081`.
 
     ->Stop the Service
 
